@@ -1,3 +1,4 @@
+#binbin song test
 # yet-another-admin-system-dev-env
 Vagrant configuraiton for Yet Another Admin System development environment.
 
@@ -9,7 +10,7 @@ Vagrant configuraiton for Yet Another Admin System development environment.
     * <del>AspectJ M2E Configurer: http://dist.springsource.org/release/AJDT/configurator/</del>
     * <del>TestNG Plugin: http://beust.com/eclipse</del>
     * <del>Java Decompiler Plugin: Special instructions</del>
-    * <del>buildhelper Maven Connector</del>
+    * <del>buildhelper Maven Connector<del>
     * <del>m2e-apt Maven Connector</del>
     * m2e
     * m2e AspectJ Connector
